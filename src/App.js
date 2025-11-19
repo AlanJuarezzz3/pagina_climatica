@@ -17,7 +17,7 @@ const cities = [
 ];
 
 
-
+// componentes
 class App extends Component {
 
   render() {
